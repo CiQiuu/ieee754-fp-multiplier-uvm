@@ -1,7 +1,5 @@
 # 🔬 IEEE-754 Single-Precision Floating-Point Multiplier — UVM Verification Suite
 
-**Autores:** Christopher Quirós · Dylan Muñoz
-
 ---
 
 ## 📑 Tabla de Contenido
@@ -510,10 +508,4 @@ Proyecto2_verificacion/
 
 ---
 
-## Licencia
-
-Todo el código fuente y la documentación son propiedad de los autores. Queda prohibida su reproducción o uso sin autorización expresa.
-
----
-
-*Christopher Quirós · Dylan Muñoz*
+*Christopher Quirós*

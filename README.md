@@ -1,7 +1,5 @@
-# 🔬 Proyecto 2 – Verificación Funcional de Multiplicador IEEE-754 con UVM
+# 🔬 IEEE-754 Single-Precision Floating-Point Multiplier — UVM Verification Suite
 
-**Instituto Tecnológico de Costa Rica – Escuela de Ingeniería Electrónica**  
-**Curso: Verificación de Diseños Digitales · II Semestre 2024**  
 **Autores:** Christopher Quirós · Dylan Muñoz
 
 ---
@@ -514,8 +512,8 @@ Proyecto2_verificacion/
 
 ## Licencia
 
-Este proyecto fue desarrollado con fines académicos para el Instituto Tecnológico de Costa Rica (TEC). Todo el código fuente y la documentación son propiedad de los autores y del TEC. Queda prohibida su reproducción o uso fuera del contexto académico sin autorización expresa.
+Todo el código fuente y la documentación son propiedad de los autores. Queda prohibida su reproducción o uso sin autorización expresa.
 
 ---
 
-*Christopher Quirós · Dylan Muñoz · TEC · II Semestre 2024*
+*Christopher Quirós · Dylan Muñoz*

@@ -1,8 +1,8 @@
-# 🔬 IEEE-754 Single-Precision Floating-Point Multiplier — UVM Verification Suite
+# IEEE-754 Single-Precision Floating-Point Multiplier — UVM Verification Suite
 
 ---
 
-## 📑 Tabla de Contenido
+## Tabla de Contenido
 - [1. Introducción](#1-introducción)
 - [2. Síntesis del problema](#2-síntesis-del-problema)
 - [3. Alcance](#3-alcance)
